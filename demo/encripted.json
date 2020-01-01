@@ -1,1 +1,32 @@
-{"arrayColores":{"0":{"nombreColor":"Rgot9LJ6vCYXAkGkCMS+JwuqfaNE3Tg5zvOtZfr8H8vqlDMR9g1qJDGk2bb+/Cv8","valorHexadec":"#f00"},"1":{"nombreColor":"ttOiosxmgZtZP/3C2Ymvj/BT4pw+5mZRw8o91W+uOhsieayPH6UauwiiunzXTE5H","valorHexadec":"#0f0"},"2":{"nombreColor":"QJtTKCF5XW1hl2ZtATi9D3Lp3HJJO6lCnxdP2HqxzwM=","valorHexadec":"#00f"},"3":{"nombreColor":"cOUIkTxe0D2iL9NxdxS5zmIkl1NVV1yv3LdACGORc5/HMHjNsPbFjlj60Bso3lo5","valorHexadec":"#0ff"},"4":{"nombreColor":"JCBqSjHdIMbI01Uh75QMWbosylMSy9ZraL5Nof9+k+9ft9nWjQRUfFWHV3tOEjntEX2S/zYE07KcfOJdD2KdQw==","valorHexadec":"#f0f"},"5":{"nombreColor":"y2yqrU7GN2RJsIKVVhh+6BfMjQz2u2OsPH6cI6I+tj8/F9RR3IIjGunvlrSpTuwI","valorHexadec":"#ff0"},"6":{"nombreColor":"Y70NWcE/ZNnbzBYriOzuEgSdqd3v7JSOM4VYupy6e+eWAnaoyAPerlxjMqi+Uv8/","valorHexadec":"#000"}}}
+{
+  "arrayColores": {
+    "0": {
+      "nombreColor": "yzMguiYVyVZxfgEetN1iplTcqm4xhVj3RKiVdt5GWVY=",
+      "valorHexadec": "#f00"
+    },
+    "1": {
+      "nombreColor": "72llNg6eiPJ20ibBd0AdB31Crt0FWHydXiz0vLxj4LJ5aIkeJ+Oe2un2PUJaZcLZ",
+      "valorHexadec": "#0f0"
+    },
+    "2": {
+      "nombreColor": "P7A1Mi9RSObam5rNnkpHEvfMS35/msRhma2cEWG5C0JUNzjtyYVQTIL2XFIXVyPH",
+      "valorHexadec": "#00f"
+    },
+    "3": {
+      "nombreColor": "SH06HlDT3wT0UGU2O4MLUR3IgcqB7D24PVEmKYAx0HSosBate/Az2u8ZBHzrC0dw",
+      "valorHexadec": "#0ff"
+    },
+    "4": {
+      "nombreColor": "Dq3KDe9Bt97IujsGfs+bI19c91YPyq2IlrCZlkv0aLU=",
+      "valorHexadec": "#f0f"
+    },
+    "5": {
+      "nombreColor": "/xGA8YBznsOuGHZxZJJk3ynz/q24QwFjqCTY1ey3B2d4T+1Ayt9WYPVbgYmi3r6yMzFLddqqBnzr0Yz59H1DDg==",
+      "valorHexadec": "#ff0"
+    },
+    "6": {
+      "nombreColor": "+MndcVNuUTZrbCMOlMwPIyXLxBa95LJlgjUPemcMdgbObwvfrfi1CrB/eVL/kyi2",
+      "valorHexadec": "#000"
+    }
+  }
+}
