@@ -1,14 +1,14 @@
 {
-  "name": "crypt-json",
+  "name": "@manufosela/cryptjson",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Javascript Class (and scripts) to crypt/decrypt some json fields",
+  "main": "CryptJson.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["LUCipher", "encrypt", "decrypt", "json"],
+  "author": "manufosela",
+  "license": "MIT",
   "dependencies": {
     "lucipher": "^1.0.0"
   }
