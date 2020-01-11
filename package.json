@@ -1,5 +1,5 @@
 {
-  "name": "@manufosela/cryptjson",
+  "name": "crypt-json",
   "version": "1.0.1",
   "description": "Javascript Class (and scripts) to crypt/decrypt some json fields",
   "main": "CryptJson.js",
@@ -8,7 +8,7 @@
   },
   "keywords": ["LUCipher", "encrypt", "decrypt", "json"],
   "author": "manufosela",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "lucipher": "^1.0.0"
   }
