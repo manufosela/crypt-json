@@ -25,7 +25,7 @@ class CryptJson {
    */
   encJson() {
     this.decriptedJson = JSON.parse(fs.readFileSync(this.decriptedJsonFilename, 'utf-8'));
-    console.log(`Encriptando JSON con PASSWORD: ${this.config.keyword} and SALT: ${this.config.salt}`);
+    console.log(`Encriptando JSON con PASSWORD: ${this.keyword} and SALT: ${this.salt}`);
     this.encriptedJson = this._travelJSON('_encryptField', this.decriptedJson, {});
     this.save(this.encriptedJsonFilename, this.encriptedJson);
     return this.encriptedJson;
